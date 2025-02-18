@@ -1,0 +1,6 @@
+projectKey=TestAnalysis
+serverUrl=http://localhost:9090
+serverVersion=25.2.0.102705
+dashboardUrl=http://localhost:9090/dashboard?id=TestAnalysis
+ceTaskId=b084ccd2-aca4-4f14-bb46-3948f5d1f015
+ceTaskUrl=http://localhost:9090/api/ce/task?id=b084ccd2-aca4-4f14-bb46-3948f5d1f015
